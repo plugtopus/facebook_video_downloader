@@ -1,0 +1,8 @@
+.ext_fb_dl_btn {
+    width: 93px;
+    box-sizing: border-box;
+    position: absolute !important;
+    top: 10px !important;
+    right: 30px !important;
+    z-index: 99
+}

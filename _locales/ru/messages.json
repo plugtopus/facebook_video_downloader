@@ -1,0 +1,20 @@
+{
+   "download": {
+      "message": "Скачать"
+   },
+   "desc": {
+      "message": "Расширение позволяет в один клик скачать видео с FaceBook (facebook.com)"
+   },
+   "name": {
+      "message": "Скачать видео с FaceBook"
+   },
+   "lang": {
+      "message": "ru"
+   },
+   "loading": {
+      "message": "Загрузка"
+   },
+   "title": {
+       "message": "Скачать видео с FaceBook"
+   }
+}
